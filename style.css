@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-image: linear-gradient(to left,#bb0b92,#80249c,#460058,#5700a3,#96aed4);
+    animation: degrade-animado 7s infinite alternate;
+    background-size: 500% 100%;
+    color: white;
+   
+  }
+  #countdown {
+    font-size: 30px;
+    font-weight: bold;
+    color: #333;
+  }
